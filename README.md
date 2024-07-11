@@ -1,9 +1,10 @@
-<h1 align="center">Hi 👋, I'm Mohammad Adil</h1>
+<h1 align="center">Hi 👋, I'm Adil</h1>
 <h3 align="center">A machine learning and deep learning enthusiast who loves solving problems and building cool stuff.</h3>
 <br>
 <img align="right" alt="coding" width="400"		src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExd21nNXByandqMmFhNXA2Nm1qc3l1OTBjdmZuazIwNTQ5M25neXU0MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <br>
+
 - 🌱 I’m currently learning **Flask, NLP**
 
 - 📫 How to reach me **1681adilmohammad@gmail.com**
