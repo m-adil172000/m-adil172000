@@ -6,8 +6,9 @@
 <br>
 - 🌱 I’m currently learning **Flask, NLP**
 
-
 - 📫 How to reach me **1681adilmohammad@gmail.com**
+  
+- I am looking to collaborate on end-to-end Machine Learning Projects
 
 <br>
 <h3 align="left">Connect with me:</h3>
