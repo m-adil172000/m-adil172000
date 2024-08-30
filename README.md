@@ -5,7 +5,7 @@
 
 <br>
 
-- 🌱 I’m currently learning **Flask, NLP**
+- 🌱 I’m currently learning **NLP, GenAI, RAG, Langchain**
 
 - 📫 How to reach me **1681adilmohammad@gmail.com**
   
