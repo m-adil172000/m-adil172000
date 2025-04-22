@@ -6,15 +6,15 @@
 
 <br>
 
-- 📊 I’m passionate about **turning data into insights** to support smarter business decisions.  
+- 💡 *Driven by curiosity and a passion for data*, I specialize in uncovering meaningful insights that inform smart decisions.  
 - 🔍 Currently learning and working on:
   - **Data Analysis with Python (Pandas, NumPy, Matplotlib, Seaborn)**
   - **Power BI for interactive dashboards and data visualization**
   - **SQL for data extraction and transformation**
   - **Probability and Statistics for Data Science**
-  - **Git & GitHub for version control**
   - **LangChain and LLMs for exploring AI capabilities**
-- 📈 Experienced in building analytical solutions using real-world datasets.
+  - **Git & GitHub for version control**
+- 🛠️ Tools I’m working with: **scikit-learn**, **LangChain**, **PyTorch**, and more.
 - 💼 Open to internships and entry-level roles in Data Analytics.
 - 📫 Reach me at **1681adilmohammad@gmail.com**
 
@@ -31,31 +31,75 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
+
+  <!-- Python -->
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   </a>
+  <span>Python</span>&nbsp;&nbsp;
+
+  <!-- Pandas -->
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
   </a>
+  <span>Pandas</span>&nbsp;&nbsp;
+
+  <!-- NumPy -->
   <a href="https://numpy.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" alt="numpy" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" alt="NumPy" width="40" height="40"/>
   </a>
+  <span>NumPy</span>&nbsp;&nbsp;
+
+  <!-- Matplotlib -->
   <a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="matplotlib" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="Matplotlib" width="40" height="40"/>
   </a>
+  <span>Matplotlib</span>&nbsp;&nbsp;
+
+  <!-- Seaborn -->
   <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
+    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="40" height="40"/>
   </a>
+  <span>Seaborn</span>&nbsp;&nbsp;
+
+  <!-- Scikit-learn -->
+  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="40" height="40"/>
+  </a>
+  <span>Scikit-learn</span>&nbsp;&nbsp;
+
+  <!-- PyTorch -->
+  <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" alt="PyTorch" width="40" height="40"/>
+  </a>
+  <span>PyTorch</span>&nbsp;&nbsp;
+
+  <!-- SQL / MySQL -->
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
   </a>
+  <span>SQL / MySQL</span>&nbsp;&nbsp;
+
+  <!-- Power BI -->
   <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Power_BI_Logo.svg" alt="powerbi" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Power_BI_Logo.svg" alt="Power BI" width="40" height="40"/>
   </a>
+  <span>Power BI</span>&nbsp;&nbsp;
+
+  <!-- Git -->
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
   </a>
+  <span>Git</span>&nbsp;&nbsp;
+
+  <!-- LangChain -->
+  <a href="https://www.langchain.com/" target="_blank" rel="noreferrer">
+    <img src="https://avatars.githubusercontent.com/u/139944531?s=200&v=4" alt="LangChain" width="40" height="40"/>
+  </a>
+  <span>LangChain</span>&nbsp;&nbsp;
+
 </p>
+
 
 <br>
 
